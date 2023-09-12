@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\showroom\\showroom.csproj": {}
+    "c:\\Users\\sanjai.harikrishnan\\Desktop\\priya\\priya\\showroom.csproj": {}
   },
   "projects": {
-    "D:\\showroom\\showroom.csproj": {
+    "c:\\Users\\sanjai.harikrishnan\\Desktop\\priya\\priya\\showroom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\showroom\\showroom.csproj",
+        "projectUniqueName": "c:\\Users\\sanjai.harikrishnan\\Desktop\\priya\\priya\\showroom.csproj",
         "projectName": "showroom",
-        "projectPath": "D:\\showroom\\showroom.csproj",
-        "packagesPath": "C:\\Users\\priyadharshini.mu\\.nuget\\packages\\",
-        "outputPath": "D:\\showroom\\obj\\",
+        "projectPath": "c:\\Users\\sanjai.harikrishnan\\Desktop\\priya\\priya\\showroom.csproj",
+        "packagesPath": "C:\\Users\\sanjai.harikrishnan\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\sanjai.harikrishnan\\Desktop\\priya\\priya\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\priyadharshini.mu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sanjai.harikrishnan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
